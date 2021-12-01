@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm André Proenza</h1>
-<h3 align="center">An Software Engineer enthusiast from Lisbon, Portugal.</h3>
+<h1 align="center">Hi there!👋</h1>
+<h3 align="center">I'm a Software Engineer enthusiast from Lisbon, Portugal.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreproenza&label=Profile%20views&color=0e75b6&style=flat" alt="andreproenza" /> </p>
 
@@ -18,5 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreproenza&show_icons=true&locale=en&layout=compact" alt="andreproenza" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andreproenza&show_icons=true&locale=en" alt="andreproenza" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andreproenza&" alt="andreproenza" /></p>
