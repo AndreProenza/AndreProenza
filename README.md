@@ -1,5 +1,5 @@
-<h1 align="center">Hello! I'm André👋</h1>
-<h3 align="center">I'm a Software Engineer enthusiast passionate about building quality software systems and a relentless researcher for an optimal solution to a specific problem.</h3>
+<h1 align="center">André Proenza</h1>
+<h3 align="center">"It is easy to hate and it is difficult to love. This is how the whole scheme of things works. All good things are difficult to achieve, and bad things are very easy to get.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=andreproenza&label=Profile%20views&color=0e75b6&style=flat" alt="andreproenza" /> </p>
 
