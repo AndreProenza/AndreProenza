@@ -28,6 +28,11 @@
 <h3 align="center">My Projects organized by category</h3>
 <h6 align="center">"You might well remember that nothing can bring you success but yourself"</h6>
 
+<details>
+  <summary align="center"><b>&nbsp;Table&nbsp;Projects&nbsp;Display</b></summary>
+  <br/>
+<p align="justify"> 
+
 <div align="center">
 
 | Web | Android | Command Line | 3D Modelling | Cyber Security | Integration | Tools | Innovative Digital Ideas |
@@ -38,6 +43,16 @@
 | [Autonomous-Vehicle-As-A-Service](https://github.com/AndreProenza/Autonomous-Vehicle-As-A-Service) |
 
 </div>
+
+</p>
+ 
+</details>
+
+
+<details>
+  <summary align="center"><b>&nbsp;Vertical&nbsp;Projects&nbsp;Display</b></summary>
+  <br/>
+<p align="justify"> 
 
 ## Web Applications
 
@@ -74,6 +89,10 @@
 ## Innovative Digital Ideas
 
 - [SpendIT](https://github.com/AndreProenza/SpendIT)
+
+</p>
+ 
+</details>
 
 #
 
