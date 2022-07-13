@@ -57,8 +57,6 @@
 
 ---
 
-<h3 align="center">Stats</h3>
-
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreproenza&show_icons=true&locale=en&layout=compact&theme=dracula" alt="andreproenza" width="40%"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=andreproenza&show_icons=true&locale=en&theme=dracula" alt="andreproenza" width="50%"/>
 
