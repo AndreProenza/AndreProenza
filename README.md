@@ -57,39 +57,39 @@
 
 ## Web Applications
 
-- [PhotoHub](https://github.com/AndreProenza/AndreProenza/PhotoHub)
-- [Medical-Test-Records](https://github.com/AndreProenza/AndreProenza/Medical-Test-Records)
-- [Corona-Diary](https://github.com/AndreProenza/AndreProenza/Corona-Diary)
-- [Autonomous-Vehicle-As-A-Service](https://github.com/AndreProenza/AndreProenza/Autonomous-Vehicle-As-A-Service)
+- [PhotoHub](https://github.com/AndreProenza/PhotoHub)
+- [Medical-Test-Records](https://github.com/AndreProenza/Medical-Test-Records)
+- [Corona-Diary](https://github.com/AndreProenza/Corona-Diary)
+- [Autonomous-Vehicle-As-A-Service](https://github.com/AndreProenza/Autonomous-Vehicle-As-A-Service)
 
 ## Android Applications
 
-- [ConversationalIST](https://github.com/AndreProenza/AndreProenza/ConversationalIST)
+- [ConversationalIST](https://github.com/AndreProenza/ConversationalIST)
 
 ## Command Line Applications
 
-- [InstagramClone](https://github.com/AndreProenza/AndreProenza/InstagramClone)
-- [StackGrep](https://github.com/AndreProenza/AndreProenza/StackGrep)
+- [InstagramClone](https://github.com/AndreProenza/InstagramClone)
+- [StackGrep](https://github.com/AndreProenza/StackGrep)
 
 ## 3D Modelling
 
-- [3D-TerreiroPaco-Lisbon](https://github.com/AndreProenza/AndreProenza/3D-TerreiroPaco-Lisbon)
+- [3D-TerreiroPaco-Lisbon](https://github.com/AndreProenza/3D-TerreiroPaco-Lisbon)
 
 ## Cyber Security
 
-- [Football-Leaks](https://github.com/AndreProenza/AndreProenza/Football-Leaks)
+- [Football-Leaks](https://github.com/AndreProenza/Football-Leaks)
 
 ## Integration Applications
 
-- [Autonomous-Vehicle-As-A-Service](https://github.com/AndreProenza/AndreProenza/Autonomous-Vehicle-As-A-Service)
+- [Autonomous-Vehicle-As-A-Service](https://github.com/AndreProenza/Autonomous-Vehicle-As-A-Service)
  
 ## Tools
 
-- [StackGrep](https://github.com/AndreProenza/AndreProenza/StackGrep)
+- [StackGrep](https://github.com/AndreProenza/StackGrep)
 
 ## Innovative Digital Ideas
 
-- [SpendIT](https://github.com/AndreProenza/AndreProenza/SpendIT)
+- [SpendIT](https://github.com/AndreProenza/SpendIT)
 
 
 <h6 align="center">"You might well remember that nothing can bring you success but yourself"</h6>
