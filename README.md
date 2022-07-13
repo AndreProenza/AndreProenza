@@ -30,7 +30,6 @@
 
 <details>
   <summary align="center"><b>&nbsp;Table&nbsp;Projects&nbsp;Display</b></summary>
-  <br/>
 <p align="justify"> 
 
 <div align="center">
@@ -51,47 +50,50 @@
 
 <details>
   <summary align="center"><b>&nbsp;Vertical&nbsp;Projects&nbsp;Display</b></summary>
-  <br/>
-<p align="justify"> 
+  
+<div align="center">
 
-## Web Applications
+### Web Applications
 
-- [PhotoHub](https://github.com/AndreProenza/PhotoHub)
-- [Medical-Test-Records](https://github.com/AndreProenza/Medical-Test-Records)
-- [Corona-Diary](https://github.com/AndreProenza/Corona-Diary)
-- [Autonomous-Vehicle-As-A-Service](https://github.com/AndreProenza/Autonomous-Vehicle-As-A-Service)
+[PhotoHub](https://github.com/AndreProenza/PhotoHub)
+  
+[Medical-Test-Records](https://github.com/AndreProenza/Medical-Test-Records)
+  
+[Corona-Diary](https://github.com/AndreProenza/Corona-Diary)
+  
+[Autonomous-Vehicle-As-A-Service](https://github.com/AndreProenza/Autonomous-Vehicle-As-A-Service)
 
-## Android Applications
+### Android Applications
 
-- [ConversationalIST](https://github.com/AndreProenza/ConversationalIST)
+[ConversationalIST](https://github.com/AndreProenza/ConversationalIST)
 
-## Command Line Applications
+### Command Line Applications
 
-- [InstagramClone](https://github.com/AndreProenza/InstagramClone)
-- [StackGrep](https://github.com/AndreProenza/StackGrep)
+[InstagramClone](https://github.com/AndreProenza/InstagramClone)
+  
+[StackGrep](https://github.com/AndreProenza/StackGrep)
 
-## 3D Modelling
+### 3D Modelling
 
-- [3D-TerreiroPaco-Lisbon](https://github.com/AndreProenza/3D-TerreiroPaco-Lisbon)
+[3D-TerreiroPaco-Lisbon](https://github.com/AndreProenza/3D-TerreiroPaco-Lisbon)
 
-## Cyber Security
+### Cyber Security
 
-- [Football-Leaks](https://github.com/AndreProenza/Football-Leaks)
+[Football-Leaks](https://github.com/AndreProenza/Football-Leaks)
 
-## Integration Applications
+### Integration Applications
 
-- [Autonomous-Vehicle-As-A-Service](https://github.com/AndreProenza/Autonomous-Vehicle-As-A-Service)
+[Autonomous-Vehicle-As-A-Service](https://github.com/AndreProenza/Autonomous-Vehicle-As-A-Service)
  
-## Tools
+### Tools
 
-- [StackGrep](https://github.com/AndreProenza/StackGrep)
+[StackGrep](https://github.com/AndreProenza/StackGrep)
 
-## Innovative Digital Ideas
+### Innovative Digital Ideas
 
-- [SpendIT](https://github.com/AndreProenza/SpendIT)
+[SpendIT](https://github.com/AndreProenza/SpendIT)
 
-</p>
- 
+</div>
 </details>
 
 #
