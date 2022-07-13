@@ -3,14 +3,14 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=andreproenza&label=Profile%20views&color=0e75b6&style=flat" alt="andreproenza" /> </p>
 
----
+#
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://linkedin.com/in/andreproenza" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="andreproenza"/></a>
 </p>
 
----
+#
 
 <h3 align="center">Technologies</h3>
 
@@ -51,11 +51,11 @@
 </p>
 -->
 
----
+#
 
 <h3 align="center">Projects</h3>
 
----
+#
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreproenza&show_icons=true&locale=en&layout=compact&theme=dracula" alt="andreproenza" width="40%"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=andreproenza&show_icons=true&locale=en&theme=dracula" alt="andreproenza" width="50%"/>
