@@ -12,6 +12,8 @@
 
 ---
 
+<h3 align="center">Technologies</h3>
+
 <div align="center">
 
 | Frontend             | Backend                           | Databases      | Other       |
@@ -48,7 +50,14 @@
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
 </p>
 -->
+
 ---
+
+<h3 align="center">Projects</h3>
+
+---
+
+<h3 align="center">Stats</h3>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreproenza&show_icons=true&locale=en&layout=compact&theme=dracula" alt="andreproenza" width="40%"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=andreproenza&show_icons=true&locale=en&theme=dracula" alt="andreproenza" width="50%"/>
