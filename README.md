@@ -130,7 +130,7 @@
   <br>
 <div align="center">
 
-  <img src="https://user-images.githubusercontent.com/78174997/178972301-ca61657e-2ad7-41cd-b767-5f867d88ea5c.gif" width="300" height="220"/>
+  <img src="https://user-images.githubusercontent.com/78174997/178973195-7934a85f-5510-47fa-8c55-ff2de2ceca8b.gif" width="300" />
   
   <!--<img src="https://user-images.githubusercontent.com/78174997/178966486-0758ce0c-2bee-4e32-a695-23e1582ca938.gif" width="300" height="220"/>-->
 
