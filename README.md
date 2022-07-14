@@ -1,12 +1,11 @@
 <div align="center">
   <h1>André Proenza</h1>
+  <h4>"It is easy to hate and it is difficult to love. This is how the whole scheme of things works. All good things are difficult to achieve, and bad things are very easy to get"</h4>
+  
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=andreproenza&label=Profile%20views&color=0e75b6&style=flat" alt="andreproenza" /> </p>
+
   <img src="https://user-images.githubusercontent.com/78174997/178979609-74513ccf-966a-4900-892f-b3769e0b6dcf.gif" width="200px"/>
 </div>
-
-<h4 align="center">"It is easy to hate and it is difficult to love. This is how the whole scheme of things works. All good things are difficult to achieve, and bad things are very easy to get"</h4>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=andreproenza&label=Profile%20views&color=0e75b6&style=flat" alt="andreproenza" /> </p>
-
 
 
 <details>
