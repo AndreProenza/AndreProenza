@@ -1,4 +1,6 @@
-<h1 align="center">André Proenza</h1>
+<span align="center">
+  <h1>André Proenza <img src="https://user-images.githubusercontent.com/78174997/178979609-74513ccf-966a-4900-892f-b3769e0b6dcf.gif" width="200px"/></h1>
+</span>
 
 <h4 align="center">"It is easy to hate and it is difficult to love. This is how the whole scheme of things works. All good things are difficult to achieve, and bad things are very easy to get"</h4>
 
