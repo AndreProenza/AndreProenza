@@ -1,5 +1,8 @@
+ <img src="https://user-images.githubusercontent.com/78174997/179075643-5a40d774-a883-4e4f-8d66-9ad003f7d7e4.png" width="100%"/>
+
+#
+
 <div align="center">
-  <h1>André Proenza</h1>
   <h4>"It is easy to hate and it is difficult to love. This is how the whole scheme of things works. All good things are difficult to achieve, and bad things are very easy to get"</h4>
   
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=andreproenza&label=Profile%20views&color=0e75b6&style=flat" alt="andreproenza" /> </p>
