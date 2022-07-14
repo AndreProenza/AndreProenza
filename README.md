@@ -116,6 +116,19 @@
 
 #
 
+<details>
+  <summary align="center"><b>&nbsp;Next&nbsp;Project</b></summary>
+  <br>
+<div align="center">
+
+  <img src="https://user-images.githubusercontent.com/78174997/178961438-bfc87628-d1b9-46cf-a393-7215e2dea70f.gif" width="300" height="220"/>
+
+</div>
+</details>
+  
+
+#
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreproenza&show_icons=true&locale=en&layout=compact&theme=dracula" alt="andreproenza" width="40%"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=andreproenza&show_icons=true&locale=en&theme=dracula" alt="andreproenza" width="50%"/>
 
