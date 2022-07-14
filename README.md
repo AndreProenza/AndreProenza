@@ -28,8 +28,8 @@
 
 <div align="center">
   
-<img src="https://user-images.githubusercontent.com/78174997/178958580-81208815-2b34-42cc-9f31-2ea946b4efd1.gif" width="300" height="220"/>
-  
+<img src="https://user-images.githubusercontent.com/78174997/178971899-2931a6b7-c639-4047-a4cf-a3aca6b2b257.gif" width="300" height="220"/>
+
 </div>
 
 <details>
