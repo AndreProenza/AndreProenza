@@ -25,6 +25,7 @@
 
 <details>
   <summary align="center"><b>&nbsp;Technologies&nbsp;</b></summary>
+  <br>
 <div align="center">
 
 | Frontend             | Backend                           | Mobile         | Databases       |
