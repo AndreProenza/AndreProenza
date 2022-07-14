@@ -130,10 +130,10 @@
   <br>
 <div align="center">
 
-  <img src="https://user-images.githubusercontent.com/78174997/178962362-a97a4e40-7df2-4bc5-9974-405d40dd8ac2.gif" width="300" height="220"/>
+  <img src="https://user-images.githubusercontent.com/78174997/178972301-ca61657e-2ad7-41cd-b767-5f867d88ea5c.gif" width="300" height="220"/>
   
   <!--<img src="https://user-images.githubusercontent.com/78174997/178966486-0758ce0c-2bee-4e32-a695-23e1582ca938.gif" width="300" height="220"/>-->
- 
+
 </div>
 </details>
   
