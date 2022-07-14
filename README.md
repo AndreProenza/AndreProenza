@@ -4,6 +4,23 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=andreproenza&label=Profile%20views&color=0e75b6&style=flat" alt="andreproenza" /> </p>
 
+
+
+<details>
+  <summary align="center"><b>&nbsp;About&nbsp;Me</b></summary>
+  <br>
+<div align="center">
+<p style="font-size:1%;"> 
+A programming enthusiast passionate about building quality software systems. 
+ 
+I consider myself an organized person, I like to plan professional and personal projects in advance. I always try to help, without the intention of getting anything in return. I think this is why throughout my academic career I have made long-lasting friendships. 
+
+I have a great passion for traveling, I believe that the greatest source of knowledge lies in experiences.
+</p>
+
+</div>
+</details>
+
 <div align="center">
   
 <!--<img src="https://user-images.githubusercontent.com/78174997/178970849-ea5ff831-b657-4797-b1e7-940a2497aba9.gif" width="100%" height="400"/>-->
