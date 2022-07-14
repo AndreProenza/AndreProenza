@@ -8,15 +8,15 @@
 
 <details>
   <summary align="center"><b>&nbsp;About&nbsp;Me</b></summary>
-  <br>
 <div align="center">
-<p style="font-size:1%;"> 
-A programming enthusiast passionate about building quality software systems. 
- 
-I consider myself an organized person, I like to plan professional and personal projects in advance. I always try to help, without the intention of getting anything in return. I think this is why throughout my academic career I have made long-lasting friendships. 
 
-I have a great passion for traveling, I believe that the greatest source of knowledge lies in experiences.
-</p>
+<h5> A programming enthusiast passionate about building quality software systems.</h5>
+
+<h6> I consider myself an organized person, I like to plan professional and personal projects in advance. I always try to help, without the intention of getting anything in return. I think this is why throughout my academic career I have made long-lasting friendships. </h6>
+
+<h6>I have a great passion for traveling, I believe that the greatest source of knowledge lies in experiences.</h6>
+
+
 
 </div>
 </details>
