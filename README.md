@@ -19,7 +19,7 @@
 
 <div align="center">
   
-![terminal](https://user-images.githubusercontent.com/78174997/178958580-81208815-2b34-42cc-9f31-2ea946b4efd1.gif)
+<img src="https://user-images.githubusercontent.com/78174997/178958580-81208815-2b34-42cc-9f31-2ea946b4efd1.gif" width="300" height="220"/>
   
 </div>
 
