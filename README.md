@@ -169,3 +169,8 @@
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=andreproenza&show_icons=true&locale=en&theme=dracula" alt="andreproenza" />
   </p>
 </div>
+
+<div align="center">
+ <h3>Contributions Graph</h3>
+ <img src="https://github.com/AndreProenza/AndreProenza/blob/output/github-contribution-grid-snake.gif"/>
+</div>
