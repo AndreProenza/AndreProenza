@@ -172,5 +172,5 @@
 
 <div align="center">
  <h3>Contributions Graph</h3>
- <img src="https://github.com/AndreProenza/AndreProenza/blob/output/github-contribution-grid-snake.gif"/>
+ <img src="https://github.com/AndreProenza/AndreProenza/blob/output/github-contribution-grid-snake.svg"/>
 </div>
