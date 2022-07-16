@@ -91,7 +91,7 @@
 | [PhotoHub](https://github.com/AndreProenza/PhotoHub) | [ConversationalIST](https://github.com/AndreProenza/ConversationalIST) | [InstagramClone](https://github.com/AndreProenza/InstagramClone) | [3D-TerreiroPaco-Lisbon](https://github.com/AndreProenza/3D-TerreiroPaco-Lisbon) | [Football-Leaks](https://github.com/AndreProenza/Football-Leaks) | [Autonomous-Vehicle-As-A-Service](https://github.com/AndreProenza/Autonomous-Vehicle-As-A-Service) | [StackGrep](https://github.com/AndreProenza/StackGrep) | [SpendIT](https://github.com/AndreProenza/SpendIT) |
 | [Medical-Test-Records](https://github.com/AndreProenza/Medical-Test-Records) |  | [StackGrep](https://github.com/AndreProenza/StackGrep) |
 | [Corona-Diary](https://github.com/AndreProenza/Corona-Diary) 
-| 
+
 
 </div>
 
