@@ -165,8 +165,8 @@
 
 <div align="center">
   <p>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreproenza&show_icons=true&locale=en&layout=compact&theme=dracula" alt="andreproenza" />&nbsp
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=andreproenza&show_icons=true&locale=en&theme=dracula" alt="andreproenza" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=andreproenza&show_icons=true&locale=en&theme=dracula&layout=compact" alt="andreproenza" />&nbsp
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreproenza&layout=compact&locale=en&theme=dracula" alt="andreproenza" />
   </p>
 </div>
 
