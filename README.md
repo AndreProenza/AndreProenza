@@ -16,11 +16,10 @@
   <summary align="center"><b>&nbsp;About&nbsp;Me</b></summary>
 <div align="center">
 
-<h5> A programming enthusiast passionate about building quality software systems.</h5>
+<h5> A programming enthusiast passionate about software</h5>
 
-<h6> I consider myself an organized person, I like to plan professional and personal projects in advance. I always try to help, without the intention of getting anything in return. I think this is why throughout my academic career I have made long-lasting friendships. </h6>
-
-<h6>I have a great passion for traveling, I believe that the greatest source of knowledge lies in experiences.</h6>
+<h6>Two facts you need to know about me: 
+I'm passionate about building beautiful and reliable software systems, and a "part-time" traveler. I believe that the greatest source of knowledge lies in experiences. </h6>
 
 
 
