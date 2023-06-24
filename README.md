@@ -19,7 +19,7 @@
 <h5> A programming enthusiast passionate about software</h5>
 
 <h6>Two facts you need to know about me: 
-I'm passionate about building beautiful and reliable software systems, and a "part-time" traveler. I believe that the greatest source of knowledge lies in experiences. </h6>
+I'm passionate about building beautiful UI's and reliable software systems, and a "part-time" traveler. I believe that the greatest source of knowledge lies in experiences. </h6>
 
 
 
