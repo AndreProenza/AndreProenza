@@ -164,12 +164,14 @@ I'm passionate about building beautiful UI's and reliable software systems, and 
 
 #
 
+<!--
 <div align="center">
   <p>
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=andreproenza&show_icons=true&locale=en&theme=dracula&layout=compact" alt="andreproenza" />&nbsp
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreproenza&layout=compact&locale=en&theme=dracula" alt="andreproenza" />
   </p>
 </div>
+-->
 
 <div align="center">
  <h3>Contributions Graph</h3>
