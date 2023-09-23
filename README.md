@@ -87,11 +87,11 @@ I'm passionate about building beautiful UI's, reliable software systems, and a "
 
 <div align="center">
 
-| Web | Android | Command Line | 3D Modelling | Cyber Security | Integration | Tools | Innovative Digital Ideas |
-|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
-| [PhotoHub](https://github.com/AndreProenza/PhotoHub) | [ConversationalIST](https://github.com/AndreProenza/ConversationalIST) | [InstagramClone](https://github.com/AndreProenza/InstagramClone) | [3D-TerreiroPaco-Lisbon](https://github.com/AndreProenza/3D-TerreiroPaco-Lisbon) | [Football-Leaks](https://github.com/AndreProenza/Football-Leaks) | [Autonomous-Vehicle-As-A-Service](https://github.com/AndreProenza/Autonomous-Vehicle-As-A-Service) | [StackGrep](https://github.com/AndreProenza/StackGrep) | [SpendIT](https://github.com/AndreProenza/SpendIT) |
+| Web | Android | Command Line | 3D Modelling | Cyber Security | Integration | Tools | Innovative Digital Ideas | Games |
+|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
+| [PhotoHub](https://github.com/AndreProenza/PhotoHub) | [ConversationalIST](https://github.com/AndreProenza/ConversationalIST) | [InstagramClone](https://github.com/AndreProenza/InstagramClone) | [3D-TerreiroPaco-Lisbon](https://github.com/AndreProenza/3D-TerreiroPaco-Lisbon) | [Football-Leaks](https://github.com/AndreProenza/Football-Leaks) | [Autonomous-Vehicle-As-A-Service](https://github.com/AndreProenza/Autonomous-Vehicle-As-A-Service) | [StackGrep](https://github.com/AndreProenza/StackGrep) | [SpendIT](https://github.com/AndreProenza/SpendIT) | [SkyTowerAscension](https://github.com/AndreProenza/SkyTowerAscension) |
 | [Medical-Test-Records](https://github.com/AndreProenza/Medical-Test-Records) |  | [StackGrep](https://github.com/AndreProenza/StackGrep) |
-| [Corona-Diary](https://github.com/AndreProenza/Corona-Diary) 
+| [Corona-Diary](https://github.com/AndreProenza/Corona-Diary)
 
 
 </div>
@@ -143,6 +143,10 @@ I'm passionate about building beautiful UI's, reliable software systems, and a "
 ### Innovative Digital Ideas
 
 [SpendIT](https://github.com/AndreProenza/SpendIT)
+
+### Games
+
+[SkyTowerAscension](https://github.com/AndreProenza/SkyTowerAscension)
 
 </div>
 </details>
