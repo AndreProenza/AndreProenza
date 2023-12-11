@@ -78,6 +78,12 @@ I'm passionate about building beautiful UI's, reliable software systems, and a "
 
 #
 
+<h3 align="center">Master Thesis</h3>
+<h5 align="center"><a href="https://github.com/AndreProenza/Blockchain-Based-Residential-Smart-Rent">Blockchain Based Residential Smart Rent</a></h5>
+
+
+#
+
 <h3 align="center">My Projects organized by category</h3>
 <h6 align="center">"You might well remember that nothing can bring you success but yourself"</h6>
 
@@ -177,7 +183,9 @@ I'm passionate about building beautiful UI's, reliable software systems, and a "
 </div>
 -->
 
+<!--
 <div align="center">
  <h3>Contributions Graph</h3>
  <img src="https://github.com/AndreProenza/AndreProenza/blob/output/github-contribution-grid-snake.svg"/>
 </div>
+-->
